@@ -1,0 +1,14 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "'project for learning typescript using vanille javascript'",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
